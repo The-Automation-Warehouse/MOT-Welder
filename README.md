@@ -7,7 +7,7 @@ Used github copilot when writing README
 <img src="images/Finished.jpg" alt="Finished project image" height="320">
 
 
-In this project, I tried to make a spot welder from a motor and a microwave oven transformer (MOT). But I ended up with more of a metal melter.
+In this project, I tried to make a spot welder from modified microwave oven transformer (MOT). But I ended up with more of a metal melter.
 
 
 ## DISCLAIMER
