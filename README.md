@@ -11,12 +11,16 @@ In this project, I tried to make a spot welder from a motor and a microwave oven
 
 
 ## DISCLAIMER
-This project involves working with mains voltage electricity and very high current and can be dangerous. I am not responsible for any damage or injury caused by following this guide.
+This project involves working with mains voltage electricity and very high current and can be dangerous. I am not responsible for any damage or injury caused by following this project.
 Open a microwave oven has killed people before, so proceed at your own risk.
-I will not show how to extract and modify the MOT, as there are better and safer guide on the internet.
+I will not show how to extract and modify the MOT, as there are better and safer guides on the internet.
 
 
-/////// Video /////////
+
+
+https://github.com/user-attachments/assets/bb9bf38d-04f5-4f14-8f78-29b9427322f9
+
+
 
 
 ## Parts
