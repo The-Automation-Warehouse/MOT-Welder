@@ -2,7 +2,7 @@
 
 Made as part of Arcade Hack Club
 
-Used github copilot and Codeium when writing README
+Used github copilot when writing README
 
 <img src="images/Finished.jpg" alt="Finished project image" height="320">
 
@@ -46,4 +46,11 @@ I will not show how to extract and modify the MOT, as there are better and safer
 
 ## Aligning the elctrodes
 
+The better the alignment, the easier the welding. When the electrodes are not aligned, its tricky to hold the parts in place and the welds are not as strong. At first I used hot glue to hold the wire lugs in place, but it got soft and melted on the first use. I then shimmed the bottom electrode with a coin and it worked much better. The top electrode can be adjusted by enlarging the hole in the top wooden arm.
 
+
+## Schematic
+
+<img src="images/Schematic.png" alt="Schematic" height="320">
+
+The main switch can cut power to everything, the button is used to activate the contactor. The contactor is switches the mains power to the MOT. The MOT is connected directly to the electrodes.
